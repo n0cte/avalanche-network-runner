@@ -2,7 +2,7 @@
   "snowman-api-enabled": false,
   "coreth-admin-api-enabled": false,
   "coreth-admin-api-dir": "",
-  "eth-apis": ["eth", "eth-filter", "net", "web3", "internal-eth", "internal-blockchain",  "internal-transaction", "internal-account", "warp"],
+  "eth-apis": ["eth", "eth-filter", "net", "web3", "internal-eth", "internal-blockchain",  "internal-transaction", "internal-account"],
   "continuous-profiler-dir": "",
   "continuous-profiler-frequency": 900000000000,
   "continuous-profiler-max-files": 5,
@@ -27,5 +27,6 @@
   "remote-tx-gossip-only-enabled": false,
   "tx-regossip-frequency": 60000000000,
   "tx-regossip-max-size": 15,
-  "log-level": "info"
+  "log-level": "info",
+  "warp-api-enabled": true
 }
