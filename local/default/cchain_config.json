@@ -2,7 +2,7 @@
   "snowman-api-enabled": false,
   "coreth-admin-api-enabled": false,
   "coreth-admin-api-dir": "",
-  "eth-apis": ["eth", "eth-filter", "net", "web3", "internal-eth", "internal-blockchain",  "internal-transaction", "internal-account"],
+  "eth-apis": ["eth", "eth-filter", "net", "web3", "internal-eth", "internal-blockchain",  "internal-transaction", "internal-account", "warp"],
   "continuous-profiler-dir": "",
   "continuous-profiler-frequency": 900000000000,
   "continuous-profiler-max-files": 5,
